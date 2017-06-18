@@ -34,12 +34,12 @@ Download this repository as well into the same directory.
 Head over to the [Twitter Application Management website](http://apps.twitter.com/) to generate your consumer key, consumer secret, access token, and access secret.  Add these details to config.py.
 
 ## Usage
-### Customize your configuration.
+### Customize your configuration
 Inside config.py, find the string variable named *query*.  This is the string representing the search terms that Twensa will use to search Twitter.  You can edit this to be any search query you like. The default string is "computational creativity".  
 
 You can also edit the number of tweets extracted (*num_tweets*).  The default number is 10.
 
-### Run your analysis.
+### Run your analysis
 In the command line, type:
 ```
 python twensa.py
@@ -53,7 +53,7 @@ This will delete all generated assertion files except for the most recent one.  
 
 Type "y" if you want to delete previous assertion files and only save the latest file.  If you would like to save previous assertion files, type "n" instead.
 
-## Check out the results.
+### Check out the results
 An example of how to load the generated assertion files into brains, print out the results, and edit the results is inside sample_analysis.py.  Run this demo with:
 ```
 python sample_analysis.py
