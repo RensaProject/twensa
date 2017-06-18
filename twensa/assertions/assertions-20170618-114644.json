@@ -1,0 +1,428 @@
+[
+  {
+    "user_id": 72261881, 
+    "rid_primary": 0.5, 
+    "text": "RT @UjessU: The next top designer? AI. Welcome to computational creativity https://t.co/TjL5DYPwkJ https://t.co/3C37ZVdEje", 
+    "created_at": "2017-06-18 13:15:15", 
+    "hashtags": [], 
+    "rid_secondary": 0.0, 
+    "rid_emotions": 0.5, 
+    "keywords": [
+      [
+        1, 
+        "welcome"
+      ], 
+      [
+        1, 
+        "top"
+      ], 
+      [
+        1, 
+        "designer"
+      ], 
+      [
+        1, 
+        "creativity"
+      ], 
+      [
+        1, 
+        "ai"
+      ]
+    ], 
+    "retweet_count": 2, 
+    "user_name": [
+      "Rajeeb"
+    ], 
+    "favorite_count": 0, 
+    "screen_name": "rajozkee"
+  }, 
+  {
+    "user_id": 20871362, 
+    "rid_primary": 1.0, 
+    "text": "8th Intl Conf on Computational Creativity in Atlanta Jun 19-23\nWill tweet highlights   #ai  #iccc17  #mume17 \nhttps://t.co/p0FjKeiRLa", 
+    "created_at": "2017-06-17 21:32:19", 
+    "hashtags": [
+      "ai", 
+      "iccc17", 
+      "mume17"
+    ], 
+    "rid_secondary": 0.0, 
+    "rid_emotions": 0.0, 
+    "keywords": [
+      [
+        1, 
+        "tweet"
+      ], 
+      [
+        1, 
+        "highlight"
+      ], 
+      [
+        1, 
+        "creativity"
+      ], 
+      [
+        1, 
+        "atlanta"
+      ]
+    ], 
+    "retweet_count": 0, 
+    "user_name": [
+      "David Stern"
+    ], 
+    "favorite_count": 0, 
+    "screen_name": "ai4all"
+  }, 
+  {
+    "user_id": 19510090, 
+    "rid_primary": 0.0, 
+    "text": "RT @creativeEndvs: I consider all existing computational creativity systems as still merely generative. Doubt it? Read .bit.ly/2rqPTqx or t\u2026", 
+    "created_at": "2017-06-17 19:16:43", 
+    "hashtags": [], 
+    "rid_secondary": 0.6666666666666666, 
+    "rid_emotions": 0.3333333333333333, 
+    "keywords": [
+      [
+        1, 
+        "system"
+      ], 
+      [
+        1, 
+        "read"
+      ], 
+      [
+        1, 
+        "doubt"
+      ], 
+      [
+        1, 
+        "creativity"
+      ]
+    ], 
+    "retweet_count": 1, 
+    "user_name": [
+      "Julian Togelius"
+    ], 
+    "favorite_count": 0, 
+    "screen_name": "togelius"
+  }, 
+  {
+    "user_id": 2978450097, 
+    "rid_primary": 0.0, 
+    "text": "I consider all existing computational creativity systems as still merely generative. Doubt it? Read .bit.ly/2rqPTqx or talk to me @ #iccc17", 
+    "created_at": "2017-06-17 14:12:29", 
+    "hashtags": [
+      "iccc17"
+    ], 
+    "rid_secondary": 0.75, 
+    "rid_emotions": 0.25, 
+    "keywords": [
+      [
+        1, 
+        "talk"
+      ], 
+      [
+        1, 
+        "system"
+      ], 
+      [
+        1, 
+        "read"
+      ], 
+      [
+        1, 
+        "doubt"
+      ], 
+      [
+        1, 
+        "creativity"
+      ]
+    ], 
+    "retweet_count": 1, 
+    "user_name": [
+      "C. Guckelsberger"
+    ], 
+    "favorite_count": 2, 
+    "screen_name": "creativeEndvs"
+  }, 
+  {
+    "user_id": 426864876, 
+    "rid_primary": 0.25, 
+    "text": "RT @accenturelabs: Explainable #AI, computational creativity and ethics - provocative insights and lots of open q's https://t.co/qiVmIQ9L2Z\u2026", 
+    "created_at": "2017-06-17 12:02:00", 
+    "hashtags": [
+      "AI,"
+    ], 
+    "rid_secondary": 0.75, 
+    "rid_emotions": 0.0, 
+    "keywords": [
+      [
+        1, 
+        "open"
+      ], 
+      [
+        1, 
+        "lot"
+      ], 
+      [
+        1, 
+        "insight"
+      ], 
+      [
+        1, 
+        "ethic"
+      ], 
+      [
+        1, 
+        "creativity"
+      ]
+    ], 
+    "retweet_count": 1, 
+    "user_name": [
+      "Lorenzo Azzollini"
+    ], 
+    "favorite_count": 0, 
+    "screen_name": "LAzzollini"
+  }, 
+  {
+    "user_id": 52188274, 
+    "rid_primary": 0.25, 
+    "text": "Explainable #AI, computational creativity and ethics - provocative insights and lots of open q's https://t.co/qiVmIQ9L2Z via @TheWorldPost", 
+    "created_at": "2017-06-16 17:25:48", 
+    "hashtags": [
+      "AI,"
+    ], 
+    "rid_secondary": 0.75, 
+    "rid_emotions": 0.0, 
+    "keywords": [
+      [
+        1, 
+        "open"
+      ], 
+      [
+        1, 
+        "lot"
+      ], 
+      [
+        1, 
+        "insight"
+      ], 
+      [
+        1, 
+        "ethic"
+      ], 
+      [
+        1, 
+        "creativity"
+      ]
+    ], 
+    "retweet_count": 1, 
+    "user_name": [
+      "Accenture Labs"
+    ], 
+    "favorite_count": 3, 
+    "screen_name": "accenturelabs"
+  }, 
+  {
+    "user_id": 1943930401, 
+    "rid_primary": 0.16666666666666666, 
+    "text": "Coding using @SwiftPlayground goes beyond blocks, using Swift code develops computational thinking skills &amp; nurture\u2026 https://t.co/kxUcUgKX1P", 
+    "created_at": "2017-06-16 09:05:40", 
+    "hashtags": [], 
+    "rid_secondary": 0.8333333333333334, 
+    "rid_emotions": 0.0, 
+    "keywords": [
+      [
+        2, 
+        "using"
+      ], 
+      [
+        1, 
+        "thinking"
+      ], 
+      [
+        1, 
+        "swift"
+      ], 
+      [
+        1, 
+        "skill"
+      ], 
+      [
+        1, 
+        "coding"
+      ], 
+      [
+        1, 
+        "code"
+      ], 
+      [
+        1, 
+        "block"
+      ]
+    ], 
+    "retweet_count": 0, 
+    "user_name": [
+      "St Finbars"
+    ], 
+    "favorite_count": 1, 
+    "screen_name": "StFinbars"
+  }, 
+  {
+    "user_id": 776036799038812160, 
+    "rid_primary": 0.25, 
+    "text": "RT @ArupAssociates: Combination of 3D printing, computational power &amp; human creativity helps us embrace complexity and create something mag\u2026", 
+    "created_at": "2017-06-15 08:28:22", 
+    "hashtags": [], 
+    "rid_secondary": 0.5, 
+    "rid_emotions": 0.25, 
+    "keywords": [
+      [
+        1, 
+        "something"
+      ], 
+      [
+        1, 
+        "printing"
+      ], 
+      [
+        1, 
+        "power"
+      ], 
+      [
+        1, 
+        "human"
+      ], 
+      [
+        1, 
+        "help"
+      ], 
+      [
+        1, 
+        "embrace"
+      ], 
+      [
+        1, 
+        "creativity"
+      ], 
+      [
+        1, 
+        "complexity"
+      ], 
+      [
+        1, 
+        "combination"
+      ], 
+      [
+        1, 
+        "3d"
+      ]
+    ], 
+    "retweet_count": 1, 
+    "user_name": [
+      "Suzanne Harb"
+    ], 
+    "favorite_count": 0, 
+    "screen_name": "SuzanneHarb_"
+  }, 
+  {
+    "user_id": 281556244, 
+    "rid_primary": 0.4, 
+    "text": "Combination of 3D printing, computational power &amp; human creativity helps us embrace complexity and create something magical #techandwaste", 
+    "created_at": "2017-06-15 08:06:45", 
+    "hashtags": [
+      "techandwaste"
+    ], 
+    "rid_secondary": 0.4, 
+    "rid_emotions": 0.2, 
+    "keywords": [
+      [
+        1, 
+        "something"
+      ], 
+      [
+        1, 
+        "printing"
+      ], 
+      [
+        1, 
+        "power"
+      ], 
+      [
+        1, 
+        "human"
+      ], 
+      [
+        1, 
+        "help"
+      ], 
+      [
+        1, 
+        "embrace"
+      ], 
+      [
+        1, 
+        "creativity"
+      ], 
+      [
+        1, 
+        "complexity"
+      ], 
+      [
+        1, 
+        "combination"
+      ], 
+      [
+        1, 
+        "3d"
+      ]
+    ], 
+    "retweet_count": 1, 
+    "user_name": [
+      "Arup Associates"
+    ], 
+    "favorite_count": 2, 
+    "screen_name": "ArupAssociates"
+  }, 
+  {
+    "user_id": 14269294, 
+    "rid_primary": 0.3333333333333333, 
+    "text": "Interesting exploration of AI &amp; Art in this event\nCOMPUTATIONAL CREATIVITY: AI and the Art of Ingenuity https://t.co/IemqLGjn7P", 
+    "created_at": "2017-06-14 12:33:26", 
+    "hashtags": [], 
+    "rid_secondary": 0.0, 
+    "rid_emotions": 0.6666666666666666, 
+    "keywords": [
+      [
+        2, 
+        "art"
+      ], 
+      [
+        2, 
+        "ai"
+      ], 
+      [
+        1, 
+        "ingenuity"
+      ], 
+      [
+        1, 
+        "exploration"
+      ], 
+      [
+        1, 
+        "event"
+      ], 
+      [
+        1, 
+        "creativity"
+      ]
+    ], 
+    "retweet_count": 0, 
+    "user_name": [
+      "Ricardo Soares"
+    ], 
+    "favorite_count": 2, 
+    "screen_name": "botequilha"
+  }
+]
