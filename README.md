@@ -31,7 +31,7 @@ python setup.py install
 Download this repository as well into the same directory.
 
 ## Setup
-Head over to the [Twitter Application Management website](apps.twitter.com/) to generate your consumer key, consumer secret, access token, and access secret.  Add these details to config.py.
+Head over to the [Twitter Application Management website](http://apps.twitter.com/) to generate your consumer key, consumer secret, access token, and access secret.  Add these details to config.py.
 
 ## Usage
 ### Customize your configuration.
